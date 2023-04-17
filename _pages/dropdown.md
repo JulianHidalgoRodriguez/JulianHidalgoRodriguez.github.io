@@ -1,3 +1,4 @@
+{% comment %}
 ---
 layout: page
 title: submenus
@@ -11,3 +12,4 @@ children:
     - title: projects
       permalink: /projects/
 ---
+{% endcomment %}
