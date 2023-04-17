@@ -5,11 +5,11 @@ layout: default
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title"> {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"> {{ page.title }} </a>{% endif %}</h1>
+            <h1 class="post-title"> {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> {{ page.title }} </a>{% endif %}</h1>
             <p class="post-description">{{ page.description }}</p>
           </header>
                 
-
+{% comment %}
           <article>
             <div class="cv">
               {% for entry in site.data.cv %}
@@ -32,5 +32,6 @@ layout: default
               {% endfor %}
               </div>
           </article>
+{% endcomment %}                
 
         </div>
