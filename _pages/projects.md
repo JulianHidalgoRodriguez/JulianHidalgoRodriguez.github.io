@@ -1,3 +1,4 @@
+{% comment %}
 ---
 layout: page
 title: projects
@@ -56,3 +57,5 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+{% endcomment %}
