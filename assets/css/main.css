@@ -594,7 +594,7 @@ footer.sticky-bottom {
   margin-left: 0;
 }
 .publications ol.bibliography li .links a.btn:hover {
-  color: var(--global-theme-color);
+  color: var(--global-bg-color);
   border-color: var(--global-theme-color);
 }
 .publications ol.bibliography li .badges {
