@@ -7,7 +7,7 @@ years: [2014, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 categories: ['Working Papers', 'Publications', 'Work in Progress', 'Other']
 catprint: ['','Working Papers', 'Publications', 'Work in Progress', 'Other']
 nav: true
-# nav_order: 1
+nav_order: 1
 ---
 
 {% comment %}
