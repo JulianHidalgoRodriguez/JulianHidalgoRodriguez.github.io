@@ -23,6 +23,6 @@ I am a Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.
 
 My research focuses on the empirical study of changes in market structure and strategic supply-side responses, with special emphasis on the role of advertising. In addition, my research covers individual and firm decision-making in telecommunication markets, where I have analyzed the digital gap and evaluated alternative policies in developing economies.
 
-Find out more about my [CV](/_pages/publications.md/) and my [Job Market Paper](/al-folio/publications/).
+Find out more about my [CV](/julianhidalgorodriguez.github.io/cv/) and my [Job Market Paper](/al-folio/publications/).
 
 
