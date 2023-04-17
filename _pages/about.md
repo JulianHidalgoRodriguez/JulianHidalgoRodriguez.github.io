@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.com/view/ioleuven/home'>(IO Group)</a>
+subtitle: # Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.com/view/ioleuven/home'>(IO Group)</a>
 
 profile:
   align: left
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Economics at KU Leuven (IO Group). My fields of interest are industrial organization and applied microeconomics. 
+I am a Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.com/view/ioleuven/home'>(IO Group)</a>. My fields of interest are industrial organization and applied microeconomics. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
