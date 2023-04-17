@@ -4,8 +4,8 @@ permalink: /publications/
 title: Research
 description: 
 years: [2017, 2018, 2019, 2020, 2021, 2022, 2023]
-categories: ['Working Papers', 'Work in Progress', 'Publications', 'Other']
-catprint: ['','Working Papers', 'Work in Progress', 'Publications', 'Other']
+categories: ['Working Papers', 'Publications', 'Work in Progress', 'Other']
+catprint: ['','Working Papers', 'Publications', 'Work in Progress', 'Other']
 nav: true
 # nav_order: 1
 ---
