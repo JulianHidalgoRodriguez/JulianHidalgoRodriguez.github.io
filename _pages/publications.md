@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Research
 description: 
-years: [1967, 1956, 1950, 1935, 1905]
+years: [2017, 2018, 2019, 2020, 2021, 2022, 2023]
 categories: ['Working Papers', 'Work in Progress', 'Publications', 'Other']
 catprint: ['','Working Papers', 'Work in Progress', 'Publications', 'Other']
 nav: true
