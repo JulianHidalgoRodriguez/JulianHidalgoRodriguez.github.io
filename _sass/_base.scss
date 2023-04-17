@@ -51,8 +51,7 @@ table.table a {
 
 figure,
 img {
-  // max-width: 90vw;
-  max-width: 180vw;
+  max-width: 90vw;
 }
 
 blockquote {
@@ -599,6 +598,7 @@ footer.sticky-bottom {
       }
 
       .title {
+        color: var(--global-theme-color) !important;
         font-weight: bolder;
       }
 
