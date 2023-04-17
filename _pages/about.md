@@ -9,7 +9,7 @@ profile:
   image: prof_pic_3.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Economics </p>
+    <p>Department of Economics - KU Leuven</p>
     <p>Naamsestraat 69 - 02.103 </p>
     <p>3000 Leuven, Belgium</p>
 
