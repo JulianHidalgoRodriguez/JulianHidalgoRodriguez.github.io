@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.goog
 
 profile:
   align: left
-  image: prof_pic_2.jpeg
+  image: prof_pic_3.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
