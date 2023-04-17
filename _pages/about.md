@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.com/view/ioleuven/home'>(IO Group)</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic_2.jpeg
   image_circular: false # crops the image to make it circular
   address: >
