@@ -23,4 +23,4 @@ I am a Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.
 
 My research focuses on the empirical study of changes in market structure and strategic supply-side responses, with special emphasis on the role of advertising. In addition, my research covers individual and firm decision-making in telecommunication markets, where I have analyzed the digital gap and evaluated alternative policies in developing economies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Find out more about my [CV](/al-folio/publications/) and my [Job Market Paper](/al-folio/publications/).
