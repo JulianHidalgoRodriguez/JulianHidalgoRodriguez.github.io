@@ -5,6 +5,7 @@ title: Contact
 description: 
 nav: true
 nav_order: 5
+social: true  # includes social icons at the bottom of the page
 ---
 
 <div style="text-align:center;">
