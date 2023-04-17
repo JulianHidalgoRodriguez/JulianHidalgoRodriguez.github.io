@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Economics </p>
-    <p>Naamsestraat 69 - office 02.103 </p>
+    <p>Naamsestraat 69 - 02.103 </p>
     <p>3000 Leuven, Belgium</p>
 
 news: false  # includes a list of news items
