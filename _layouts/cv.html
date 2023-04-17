@@ -9,6 +9,8 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
                 
+<iframe src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" width="100%" height="800px"></iframe>
+                
 {% comment %}
           <article>
             <div class="cv">
