@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. candidate in Economics at KU Leuven  <a href='[#](https://sites.google.com/view/ioleuven/home)'>(IO Group)</a>
+subtitle: Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.google.com/view/ioleuven/home'>(IO Group)</a>
 
 profile:
   align: right
