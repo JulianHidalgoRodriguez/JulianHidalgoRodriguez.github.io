@@ -9,9 +9,9 @@ profile:
   image: prof_pic_3.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Economics </p>
+    <p>Naamsestraat 69 - office 02.103 </p>
+    <p>3000 Leuven, Belgium</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
