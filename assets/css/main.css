@@ -377,6 +377,7 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
+  text-align: center;
 }
 .cv .card {
   background-color: var(--global-card-bg-color);
