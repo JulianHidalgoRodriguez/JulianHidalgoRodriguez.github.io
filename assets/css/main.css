@@ -143,7 +143,7 @@ table.table a:hover:after :not(.nav-item.dropdown) {
 
 figure,
 img {
-  max-width: 90vw;
+  max-width: 100vw;
 }
 
 blockquote {
