@@ -191,6 +191,7 @@ blockquote {
 
 .profile {
   width: 100%;
+  font-size: 2rem;
 }
 .profile .address {
   margin-bottom: 5px;
@@ -198,7 +199,6 @@ blockquote {
   font-family: monospace;
 }
 .profile .address p {
-  font-size: 1.5rem;
   display: inline-block;
   margin: 0;
 }
