@@ -16,5 +16,6 @@ nav_order: 3
 <strong>Universidad del Rosario</strong> (Undergraduate)
 
 Microeconomics II 
+
 Econometrics
 
