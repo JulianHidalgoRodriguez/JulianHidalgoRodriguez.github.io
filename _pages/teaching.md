@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<strong>KU Leuven</strong>
+<strong>KU Leuven</strong> (Master)
 
 <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0M47BE.htm#activetab=doelstellingen_idp1780352">Industrial Economics</a> (Teaching Assistant Spring 2021-2023) 
 
