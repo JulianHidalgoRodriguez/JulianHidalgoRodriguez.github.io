@@ -11,4 +11,4 @@ nav_order: 4
 
 <a href="https://sites.google.com/site/deloeckerjan/">Jan De Loecker</a> -  jan.deloecker@kuleuven.be
 
-<a href="https://www.vwl.uni-mannheim.de/sovinsky/">Michelle Sovisnky</a> - michelle.sovinsky@uni-mannheim.de
+<a href="https://www.vwl.uni-mannheim.de/sovinsky/">Michelle Sovinsky</a> - michelle.sovinsky@uni-mannheim.de
