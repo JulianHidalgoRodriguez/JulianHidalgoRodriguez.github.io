@@ -6,7 +6,7 @@ subtitle: # Ph.D. candidate in Economics at KU Leuven  <a href='https://sites.go
 
 profile:
   align: left
-  image: website_JH_1.jpg
+  image: website_JH_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Economics - KU Leuven</p>
