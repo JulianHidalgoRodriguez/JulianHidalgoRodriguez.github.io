@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: CV_2023-Julian_Hidalgo.pdf
+cv_pdf: Julian_Hidalgo-Job_Market-CV.pdf
 ---
