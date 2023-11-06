@@ -27,4 +27,12 @@ My research focuses on the empirical study of changes in market structure and st
 
 Find out more through my <a href='https://julianhidalgorodriguez.github.io/cv' target='_self'>CV</a> and my <a href='https://julianhidalgorodriguez.github.io/publications' target='_self'>Job Market Paper</a>.
 
+<b>References:</b>
+
+<a href="https://sites.google.com/site/frankverbo/home">Frank Verboven</a> - frank.verboven@kuleuven.be
+
+<a href="https://sites.google.com/site/deloeckerjan/">Jan De Loecker</a> -  jan.deloecker@kuleuven.be
+
+<a href="https://www.vwl.uni-mannheim.de/sovinsky/">Michelle Sovinsky</a> - michelle.sovinsky@uni-mannheim.de
+
 
