@@ -13,8 +13,6 @@ Advanced Industrial Economics (Teaching Assistant Spring 2020-2021 - Professor F
 
 <strong>KU Leuven - Belgium</strong> (Master)
 
-Advanced Industrial Economics (Teaching Assistant Spring 2020-2021 - Professor Frank Verboven) 
-
 <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0M47BE.htm#activetab=doelstellingen_idp1780352">Industrial Economics</a> (Teaching Assistant Spring 2022-2023 - Professors Frank Verboven & Florin Maican) 
 
 <a href="https://onderwijsaanbod.kuleuven.be/2019/syllabi/e/D0C34AE.htm#activetab=doelstellingen_idm4733120">Master's Thesis Economics</a> (Teaching Assistant 2019-2023 - Professor Frank Verboven)
