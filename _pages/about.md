@@ -9,7 +9,8 @@ profile:
   image: website_JH_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Economics and Business - UPF</p>
+    <p>Department of Economics and Business</p>
+    <p>Universitat Pompeu Fabra</p>
     <p>Ramon Trias Fargas, 25-27 </p>
     <p>08005 Barcelona</p>
 
