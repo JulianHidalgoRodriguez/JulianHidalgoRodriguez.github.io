@@ -3,6 +3,15 @@
 
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
+        <div class="d-none d-lg-block">
+            <img src="{{ '/assets/img/upf_logo_black.png' | relative_url }}" 
+                 alt="UPF Logo" 
+                 style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%); height: 45px; z-index: 1000;">
+         
+            <img src="{{ '/assets/img/bse_logo_black.png' | relative_url }}" 
+                 alt="BSE Logo" 
+                 style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); height: 45px; z-index: 1000;">
+      </div>  
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
